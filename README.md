@@ -1,8 +1,8 @@
 # Big Country Server & Community Rules
 
-# Basic Rules
+## Basic Rules
 ### testing sub
 
 
-# Server Rules
+## Server Rules
 ### testing other sub
