@@ -5,4 +5,6 @@
 
 
 ## Server Rules
-### testing other sub
+The server is .
+this is a test.
+testing the listing options.
