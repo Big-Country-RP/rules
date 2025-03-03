@@ -5,6 +5,6 @@
 
 
 ## Server Rules
-The server is .
-this is a test.
-testing the listing options.
+### The server is .
+### this is a test.
+### testing the listing options.
