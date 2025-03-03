@@ -1,8 +1,8 @@
-# rules
+# Big Country Server & Community Rules
 
-# Test
+# Basic Rules
 ## testing sub
 
 
-# test2
+# Server Rules
 ### testing other sub
